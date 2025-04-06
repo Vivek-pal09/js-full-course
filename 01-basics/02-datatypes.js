@@ -1,10 +1,10 @@
 "use strict";    //treat all js code as newer version 
 
-// alert(3+3)   // we are using modejs ,not browser
+//alert(3+3)   // we are using modejs ,not browser
 
 console.log(3
     
-    +3)  //code readibility should be high
+    +3)  //code readibility should be high ,don't write like this 
 
 console.log("Vivek")
 
@@ -22,7 +22,8 @@ console.log(age);
 // boolean => true/false
 // null => standalone value
 // undefined => 
-//symbol =>unique
+// symbol => unique
+
 
 // object 
 
